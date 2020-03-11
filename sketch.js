@@ -1,8 +1,7 @@
 var a = 50, b = 80;
 var c;
 function setup() {
-  createCanvas(400, 400);
-  frameRate(10);
+  createCanvas(windowWidth, windowWidth);
   //velocidad 
 }
 
